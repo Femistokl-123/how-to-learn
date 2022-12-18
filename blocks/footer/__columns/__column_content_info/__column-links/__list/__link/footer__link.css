@@ -1,0 +1,15 @@
+.footer__link {
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+    color: white;
+    text-decoration: none;
+    transition-property: opacity;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+    transition-delay: 0s;
+  }
+  
+  .footer__link:hover {
+    opacity: 0.6;
+  }
