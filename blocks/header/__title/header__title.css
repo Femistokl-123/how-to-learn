@@ -1,14 +1,14 @@
 .header__title {
-    display: flex;
-    flex-direction: column-reverse;
-    justify-content: center;
-    max-width: 730px;
-    margin: 0;
-    margin-left: 64px;
-    align-self: center;
-    line-height: 96px;
-    font-size: 102px;
-    font-weight: 600px;
-    z-index: 1;
-    position: relative;
-  }
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  max-width: 730px;
+  margin: 0;
+  margin-left: 64px;
+  align-self: center;
+  line-height: 96px;
+  font-size: 102px;
+  font-weight: 600px;
+  z-index: 1;
+  position: relative;
+}

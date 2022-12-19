@@ -1,12 +1,12 @@
 .section-subtitle_theme_dark {
-    position: relative;
-    z-index: 1;
-    display: block;
-    max-width: 60%;
-    margin: auto;
-    line-height: 34px;
-    font-size: 24px;
-    font-weight: normal;
-    text-align: center;
-    color: white;
-  }
+  position: relative;
+  z-index: 1;
+  display: block;
+  max-width: 60%;
+  margin: auto;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  text-align: center;
+  color: white;
+}

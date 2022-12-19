@@ -7,10 +7,10 @@
 @import url(../blocks/header/logo/logo_place_header.css);
 @import url(../blocks/header/rotation/__square-pic/header__square-pic.css);
 
-@import url(../blocks/description/two-columns/two-columns.css);
-@import url(../blocks/description/two-columns/__brief/two-columns__brief.css);
-@import url(../blocks/description/two-columns/__main-text/__paragraph/two-columns__paragraph.css);
-@import url(../blocks/description/two-columns/__main-text/__paragraph/__span-accent/two-columns__span-accent.css);
+@import url(../blocks/two-columns/two-columns.css);
+@import url(../blocks/two-columns/__brief/two-columns__brief.css);
+@import url(../blocks/two-columns/__main-text/__paragraph/two-columns__paragraph.css);
+@import url(../blocks/two-columns/__main-text/__paragraph/__span-accent/two-columns__span-accent.css);
 
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/cards/cards.css);
@@ -58,8 +58,10 @@
 @import url(../blocks/kaufman/table_theme_dark/__cell_theme_dark/table__cell_theme_dark.css);
 @import url(../blocks/kaufman/table_theme_dark/__cell_theme_dark/__heading_theme_dark/table__heading_theme_dark.css);
 @import url(../blocks/kaufman/table_theme_dark/__cell_theme_dark/__text_theme_dark/table__text_theme_dark.css);
+
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__logo-zone/__logo/resources__logo.css);
+@import url(../blocks/resources/__logo-zone/__link/resources__link.css);
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
@@ -71,6 +73,7 @@
 @import url(../blocks/footer/__columns/__column_content_info/__column-links/__list/__link/footer__link.css);
 @import url(../blocks/footer/__columns/__column_content_info/__column-links/__list/__link/__social-icon/footer__social-icon.css);
 @import url(../blocks/footer/__columns/__column_content_social/__column-heading/footer__column-heading.css);
+@import url(../blocks/footer/__columns/__column_content_social/__column-links/footer__column-links.css);
 
 @import url(../blocks/rotation/rotation.css);
 @import url(../blocks/rotation/__square-pic/header__square-pic.css);
