@@ -7,6 +7,6 @@
   transition-delay: 0s;
 }
   
-  .header__link:hover {
+.header__link:hover {
   opacity: 0.6;
 }
